@@ -1,3 +1,6 @@
+Run Command npm install first to install required packages and for better output of project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
